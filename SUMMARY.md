@@ -1,12 +1,12 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [The Skeleton Lab](README.md)
 
-## Guides
+## Introduction To Rigging
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [What is Rigging](introduction-to-rigging/what-is-rigging.md)
+* [Creating your first task](introduction-to-rigging/creating-your-first-task.md)
+* [Advanced permissions](introduction-to-rigging/advanced-permissions.md)
 
 ## Fundamentals
 
