@@ -12,41 +12,37 @@ For common folks, Rigging can mean many things like arranging dishonestly for th
 
 </details>
 
-**Rigging in 3D/2D Animation**
+## Rigging in 3D Animation
 
-Rigging is a technique in animation, which basically gives life to a sculpture, which makes these CG characters deform in various ways, this can be realistic as well as cartoonish. It only serves to make the animation process more intuitive, and the same technique is also used to control the deformation of any object such as a door, a spoon, a building, or even a galaxy! Anything and everything with some kind of motion in CGI can be a part of rigging!
+Rigging is a technique in animation, which basically gives life to a sculpture(or other articulated object), which makes these CG characters deform in various ways, this deformation can be realistic as well as cartoonish. It only serves to make the animation process more intuitive, and the same technique is also used to control the deformation of any object such as a door, a spoon, a building, or even a galaxy! Anything and everything with some kind of motion in CGI can be a part of rigging!
 
 ![](../.gitbook/assets/maya\_5pxRA8t1Fk.gif)
 
-> It is basically done by creating interconnected skeleton parts similar to a human skeleton or parts of airplane which have a root and are connected with each other in hierarchical setup.
+> It is basically done by creating **interconnected skeleton parts** similar to a human skeleton or parts of airplane which have a root and are connected with each other in hierarchical setup.
+>
+> When an artist moves a shoulder bone, the forearm and hand bones will move too. The goal is to mimic real life as accurately as possible or create a highly cartoonish effect.
 
-> Rigers add controls over these skeletons which can be transformed using digital animation software meaning their position, rotation, and scale can be changed.
->
-> By recording these aspects of the bones along a timeline(using a process called keyframing) animations can be recorded.
->
-> When an artist moves a shoulder bone, the forearm and hand bones will move too. The goal is to mimic real life as accurately as possible
+> Riggers add controls over these skeletons which can be transformed using digital animation software meaning their position, rotation, and scale can be changed. By recording these aspects of the bones along a timeline(using a process called keyframing) animations can be recorded.
 
 ![](../.gitbook/assets/maya\_PCUeBDoedx.gif)
 
+## History
+
+> This process was introduced by  [Nadia Magnenat Thalmann](https://en.wikipedia.org/wiki/Nadia\_Magnenat\_Thalmann), Richard Laperrière, and [Daniel Thalmann](https://en.wikipedia.org/wiki/Daniel\_Thalmann). This technique is used in virtually all animation systems where simplified user interfaces allows animators to control often complex algorithms and a huge amount of geometry; most notably through [inverse kinematics](https://en.wikipedia.org/wiki/Inverse\_kinematics) and other "goal-oriented" techniques. In principle, however, the intention of the technique is never to imitate real anatomy or physical processes, but only to control the deformation of the mesh data.&#x20;
 
 
-Here are a couple of examples of succinct overviews from products with really great docs:
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+## Thinking Process
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+> Rigging is a mechanical process but in a way has a lot of ART in it as well. Artists study the story boards, character style, anatomy, to understand how this character/pro/vehicle should deform.
 
-## Getting Started
+> While working on a Food Truck in [SpongeBob : KampKoral](https://www.youtube.com/watch?v=\_i8AYsf1iKo) when It had to fight, sneak, drink. I rigged it to deform so it had the style & functionality to show that kind of emotion.
 
-**Got 2 minutes?** Check out a video overview of our product:
+![](../.gitbook/assets/vlc\_U4xrGh7bZe\_1.gif)
 
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
+> Randall in Monsters, Inc. moves like a chameleon, but he also walks on four legs and sometimes on all his legs. Riggers break down those motions into individual elements and create the hundreds of control points that animators will use to create poses.
+
+![](../.gitbook/assets/mons.gif)
 
 {% hint style="info" %}
 **Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
