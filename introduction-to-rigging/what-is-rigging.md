@@ -4,19 +4,31 @@ description: 'Level: Beginner | Version 1.0 | Date: 20-Jan-2022'
 
 # What is Rigging
 
-{% hint style="warning" %}
-#### <mark style="background-color:orange;">Rigging (Word Meaning)</mark>
+<details>
+
+<summary>Rigging (Word Meaning)</summary>
 
 For common folks, Rigging can mean many things like arranging dishonestly for the result of something, or the action of designing and installing the equipment, in the preparation to move/ handle objects. Rigging comes from the word RIG - which means to set up or prepare. It's history goes to 1800s where "rigging" a sailing vessel refers to putting all the components in place to allow it to function.
 
-![](../.gitbook/assets/image.png)
-{% endhint %}
+</details>
 
-### <mark style="background-color:green;">Rigging in 3D/2D Animation</mark>&#x20;
+**Rigging in 3D/2D Animation**
 
+Rigging is a technique in animation, which basically gives life to a sculpture, which makes these CG characters deform in various ways, this can be realistic as well as cartoonish. It only serves to make the animation process more intuitive, and the same technique is also used to control the deformation of any object such as a door, a spoon, a building, or even a galaxy! Anything and everything with some kind of motion in CGI can be a part of rigging!
+
+![](../.gitbook/assets/maya\_5pxRA8t1Fk.gif)
+
+> It is basically done by creating interconnected skeleton parts similar to a human skeleton or parts of airplane which have a root and are connected with each other in hierarchical setup.
+
+> Rigers add controls over these skeletons which can be transformed using digital animation software meaning their position, rotation, and scale can be changed.
 >
+> By recording these aspects of the bones along a timeline(using a process called keyframing) animations can be recorded.
+>
+> When an artist moves a shoulder bone, the forearm and hand bones will move too. The goal is to mimic real life as accurately as possible
 
-&#x20; &#x20;
+![](../.gitbook/assets/maya\_PCUeBDoedx.gif)
+
+
 
 Here are a couple of examples of succinct overviews from products with really great docs:
 
