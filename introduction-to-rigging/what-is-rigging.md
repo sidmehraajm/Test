@@ -49,6 +49,20 @@ Imagine a puppet on invisible strings. Rigging is the process of building all of
 
 
 
+## Rigging Breakdown Basics
+
+> Rigging can be done in many ways. But the most commonly used is done by creating joints, binding them to the mesh and adding controls over it, In this entertainment era, we don’t have time to do this over and over again so we have auto rigging system which we will discuss with time, this technique is used mostly for character & vehicles. As for props it's little different we use a different type of connection sometimes, It is not necessary to use joints for that.&#x20;
+
+![](../.gitbook/assets/a.gif)
+
+> A big part of Rigging also involves muscle simulations which is mostly used in vfx to make digital doubles of characters or animals. Muscle gives real life skin sliding and bulge effects and has an amazing deformation.
+
+{% embed url="https://youtu.be/vsTP6Ldm7Yo" %}
+
+
+
+
+
 ## Pixar explains Rigging
 
 {% embed url="https://youtu.be/kKzvaY6Z-eM" %}
@@ -99,18 +113,6 @@ https://sciencebehindpixar.org/pipeline/rigging#:\~:text=Riggers%20break%20down%
 
 </details>
 
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
-
-### Guides: Jump right in
-
-Follow our handy guides to get started on the basics as quickly as possible:
-
 {% content-ref url="what-is-rigging.md" %}
 [what-is-rigging.md](what-is-rigging.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-****
-{% endhint %}
