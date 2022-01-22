@@ -16,11 +16,13 @@ For common folks, Rigging can mean many things like arranging dishonestly for th
 
 Rigging is a technique in animation, which basically gives life to a sculpture(or other articulated object), which makes these CG characters deform in various ways, this deformation can be realistic as well as cartoonish. It only serves to make the animation process more intuitive, and the same technique is also used to control the deformation of any object such as a door, a spoon, a building, or even a galaxy! Anything and everything with some kind of motion in CGI can be a part of rigging!
 
-![](../.gitbook/assets/maya\_5pxRA8t1Fk.gif)
+![](../.gitbook/assets/dribbble\_fireart\_6.gif)
 
 > It is basically done by creating **interconnected skeleton parts** similar to a human skeleton or parts of airplane which have a root and are connected with each other in hierarchical setup.
 >
 > When an artist moves a shoulder bone, the forearm and hand bones will move too. The goal is to mimic real life as accurately as possible or create a highly cartoonish effect.
+
+![](<../.gitbook/assets/maya\_5pxRA8t1Fk (1).gif>)
 
 > Riggers add controls over these skeletons which can be transformed using digital animation software meaning their position, rotation, and scale can be changed. By recording these aspects of the bones along a timeline(using a process called keyframing) animations can be recorded.
 
@@ -44,6 +46,60 @@ Rigging is a technique in animation, which basically gives life to a sculpture(o
 
 ![](../.gitbook/assets/mons.gif)
 
+
+
+## Pixar explaining Rigging
+
+{% embed url="https://youtu.be/kKzvaY6Z-eM" %}
+
+<details>
+
+<summary>Amazing Rigs created in the history</summary>
+
+​[https://www.youtube.com/watch?v=Nn0S2vmSCU0\&t=29s](https://www.youtube.com/watch?v=Nn0S2vmSCU0\&t=29s)
+
+[https://youtu.be/SlRvgJpssEM](https://youtu.be/SlRvgJpssEM)
+
+[https://www.youtube.com/watch?v=uUX-9ar7oZw](https://www.youtube.com/watch?v=uUX-9ar7oZw)
+
+[https://youtu.be/FcEK6o58acI](https://youtu.be/FcEK6o58acI)
+
+[https://youtu.be/\_9CB6ZnXDM0](https://youtu.be/\_9CB6ZnXDM0)
+
+[https://youtu.be/C4KYk7LhSSw](https://youtu.be/C4KYk7LhSSw)
+
+[https://youtu.be/r45e5Xky35k](https://youtu.be/r45e5Xky35k)
+
+[https://youtu.be/S-HG8IA-2TI](https://youtu.be/S-HG8IA-2TI)
+
+[https://youtu.be/ye7arp5IrAg](https://youtu.be/ye7arp5IrAg)
+
+[https://youtu.be/nuBvox8tp14](https://youtu.be/nuBvox8tp14)
+
+[https://youtu.be/IZFgkom9oRo](https://youtu.be/IZFgkom9oRo)
+
+[https://youtu.be/wAS8MYc0ZQo](https://youtu.be/wAS8MYc0ZQo)
+
+[https://youtu.be/0QliCSM6qKo](https://youtu.be/0QliCSM6qKo)
+
+</details>
+
+{% embed url="https://youtu.be/Nn0S2vmSCU0" %}
+
+<details>
+
+<summary>Data taken from these sources and personal experience </summary>
+
+[https://sciencebehindpixar.org/pipeline/rigging](https://sciencebehindpixar.org/pipeline/rigging)&#x20;
+
+[https://dribbble.com/shots/6553591-Puppet-Master](https://dribbble.com/shots/6553591-Puppet-Master)&#x20;
+
+[https://en.wikipedia.org/wiki/Skeletal\_animation](https://en.wikipedia.org/wiki/Skeletal\_animation)&#x20;
+
+https://sciencebehindpixar.org/pipeline/rigging#:\~:text=Riggers%20break%20down%20those%20motions,can%20be%20posed.&#x20;
+
+</details>
+
 {% hint style="info" %}
 **Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
 {% endhint %}
@@ -56,38 +112,6 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [what-is-rigging.md](what-is-rigging.md)
 {% endcontent-ref %}
 
-{% content-ref url="creating-your-first-task.md" %}
-[creating-your-first-task.md](creating-your-first-task.md)
-{% endcontent-ref %}
-
-{% content-ref url="advanced-permissions.md" %}
-[advanced-permissions.md](advanced-permissions.md)
-{% endcontent-ref %}
-
 {% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="../fundamentals/projects.md" %}
-[projects.md](../fundamentals/projects.md)
-{% endcontent-ref %}
-
-{% content-ref url="../fundamentals/members.md" %}
-[members.md](../fundamentals/members.md)
-{% endcontent-ref %}
-
-{% content-ref url="../fundamentals/task-lists.md" %}
-[task-lists.md](../fundamentals/task-lists.md)
-{% endcontent-ref %}
-
-{% content-ref url="../fundamentals/tasks.md" %}
-[tasks.md](../fundamentals/tasks.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
+****
 {% endhint %}
