@@ -88,13 +88,13 @@ Rigging is a technique in animation, which basically gives life to a sculpture(o
 
 <summary>Data taken from these sources and personal experience </summary>
 
-[https://sciencebehindpixar.org/pipeline/rigging](https://sciencebehindpixar.org/pipeline/rigging)&#x20;
+https://sciencebehindpixar.org/pipeline/rigging
 
-[https://dribbble.com/shots/6553591-Puppet-Master](https://dribbble.com/shots/6553591-Puppet-Master)&#x20;
+https://dribbble.com/shots/6553591-Puppet-Master
 
-[https://en.wikipedia.org/wiki/Skeletal\_animation](https://en.wikipedia.org/wiki/Skeletal\_animation)&#x20;
+https://en.wikipedia.org/wiki/Skeletal\_animation
 
-https://sciencebehindpixar.org/pipeline/rigging#:\~:text=Riggers%20break%20down%20those%20motions,can%20be%20posed.&#x20;
+https://sciencebehindpixar.org/pipeline/rigging#:\~:text=Riggers%20break%20down%20those%20motions,can%20be%20posed.
 
 </details>
 
