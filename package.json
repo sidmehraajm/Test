@@ -25,14 +25,5 @@
   },
   "scripts": {
     "prepublish": "lessc ./less/search.less > ./assets/search.css"
-  },
-  "plugins": [
-		"comments-footer"
-	],
-	"pluginsConfig": {
-		"comments-footer": {
-			"type": "github",
-			"repo": "introduction-to-rigging/what-is-rigging",
-		}
-	}
+  }
 }
