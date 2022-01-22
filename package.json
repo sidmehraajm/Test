@@ -6,7 +6,10 @@
   "engines": {
     "gitbook": ">=3.0.0-pre.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "gitbook-plugin-ga": "^2.0.0",
+    "gitbook-plugin-insert-logo": "^0.1.5"
+  },
   "homepage": "https://github.com/GitbookIO/plugin-search",
   "repository": {
     "type": "git",
