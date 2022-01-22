@@ -1,6 +1,6 @@
 # The Skeleton Lab
 
-![](<.gitbook/assets/Logo FinaL with name.png  width="640" height=360 >)
+![](<.gitbook/assets/Logo FinaL with name.png  width=500 height=500 >)
 
 
 
