@@ -48,7 +48,7 @@ Rigging is a technique in animation, which basically gives life to a sculpture(o
 
 
 
-## Pixar explaining Rigging
+## Pixar explains Rigging
 
 {% embed url="https://youtu.be/kKzvaY6Z-eM" %}
 
