@@ -1,3 +1,6 @@
+# The Skeleton Lab
+
+![](<.gitbook/assets/Logo FinaL with name.png>)
 
 {% hint style="warning" %}
 Rigging Artists/ Aspiring Rigging Artists have been struggling for so long because there is literally no place to learn rigging properly, even Autodesk has not given much content other than some videos which are far more advanced for junior/fresher rigging artists.
