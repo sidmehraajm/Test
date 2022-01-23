@@ -1,29 +1,12 @@
 # Table of contents
 
-* [The Skeleton Lab](README.md)
+* [⚪ The Skeleton Lab](README.md)
+* [🤔 What is Rigging ?](what-is-rigging.md)
 
-## Introduction To Rigging
+## Rigging Topics : Beginner&#x20;
 
-* [What is Rigging](introduction-to-rigging/what-is-rigging.md)
-* [Creating your first task](introduction-to-rigging/creating-your-first-task.md)
-* [Advanced permissions](introduction-to-rigging/advanced-permissions.md)
+* [🦴 Joints Introduction](rigging-topics-beginner/joints-introduction.md)
 
-## Fundamentals
+## Scripting Topics: Beginner
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Why Python](scripting-topics-beginner/why-python.md)

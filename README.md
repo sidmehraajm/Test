@@ -1,4 +1,4 @@
-# The Skeleton Lab
+# ⚪ The Skeleton Lab
 
 ![](<.gitbook/assets/Logo FinaL with name (2).png>)
 
