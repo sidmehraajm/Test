@@ -112,7 +112,3 @@ https://en.wikipedia.org/wiki/Skeletal\_animation
 https://sciencebehindpixar.org/pipeline/rigging#:\~:text=Riggers%20break%20down%20those%20motions,can%20be%20posed.
 
 </details>
-
-{% content-ref url="what-is-rigging.md" %}
-[what-is-rigging.md](what-is-rigging.md)
-{% endcontent-ref %}
