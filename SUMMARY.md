@@ -22,6 +22,8 @@
   * [✈ Rigging a Vehicle](rigging-topics-beginner/rigging-baiscs/rigging-a-vehicle.md)
   * [🕴 Rigging A Character](rigging-topics-beginner/rigging-baiscs/rigging-a-character.md)
   * [🕸 Geometry Check](rigging-topics-beginner/rigging-baiscs/geometry-check.md)
+* [2 Rigging Advanced](rigging-topics-beginner/rigging-advanced.md)
+* [🕒 Rigging: Mythic](rigging-topics-beginner/rigging-mythic.md)
 
 ## Scripting Topics: Beginner
 
