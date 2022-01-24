@@ -1,0 +1,2 @@
+# 📒 External Blog Database
+
