@@ -1,4 +1,4 @@
-# 1⃣ Rigging: Basics
+# 1⃣ Rigging Baiscs
 
 {% content-ref url="tranasform-and-dag-nodes.md" %}
 [tranasform-and-dag-nodes.md](tranasform-and-dag-nodes.md)
@@ -62,4 +62,8 @@
 
 {% content-ref url="rigging-a-character.md" %}
 [rigging-a-character.md](rigging-a-character.md)
+{% endcontent-ref %}
+
+{% content-ref url="geometry-check.md" %}
+[geometry-check.md](geometry-check.md)
 {% endcontent-ref %}
