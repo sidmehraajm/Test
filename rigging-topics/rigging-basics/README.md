@@ -1,7 +1,7 @@
 # 1⃣ Rigging: Basics
 
-{% content-ref url="tranasform-and-dag-nodes.md" %}
-[tranasform-and-dag-nodes.md](tranasform-and-dag-nodes.md)
+{% content-ref url="maya-architecture-transforms.md" %}
+[maya-architecture-transforms.md](maya-architecture-transforms.md)
 {% endcontent-ref %}
 
 {% content-ref url="joints-introduction.md" %}

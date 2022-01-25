@@ -6,7 +6,7 @@
 ## Rigging Topics
 
 * [1⃣ Rigging: Basics](rigging-topics/rigging-basics/README.md)
-  * [📦 Tranasform & Dag nodes](rigging-topics/rigging-basics/tranasform-and-dag-nodes.md)
+  * [📦 Maya Architecture: Transforms](rigging-topics/rigging-basics/maya-architecture-transforms.md)
   * [🦴 Joints Introduction](rigging-topics/rigging-basics/joints-introduction.md)
   * [♾ Pivots and rotation order](rigging-topics/rigging-basics/pivots-and-rotation-order.md)
   * [🏗 Connection Types](rigging-topics/rigging-basics/connection-types.md)
