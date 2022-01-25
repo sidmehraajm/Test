@@ -22,6 +22,8 @@
   * [🦽 Rigging A prop](rigging-topics-beginner/rigging-basics/rigging-a-prop.md)
   * [✈ Rigging a Vehicle](rigging-topics-beginner/rigging-basics/rigging-a-vehicle.md)
   * [🕴 Rigging A Character](rigging-topics-beginner/rigging-basics/rigging-a-character.md)
+  * [👾 Tentacle Rigging](rigging-topics-beginner/rigging-basics/tentacle-rigging.md)
+  * [🚉 OrigShape Node](rigging-topics-beginner/rigging-basics/origshape-node.md)
 * [2 Rigging: Advanced](rigging-topics-beginner/rigging-advanced/README.md)
   * [👨🔬 Intro to 3D Math](rigging-topics-beginner/rigging-advanced/intro-to-3d-math.md)
   * [↗ Vectors](rigging-topics-beginner/rigging-advanced/vectors.md)
