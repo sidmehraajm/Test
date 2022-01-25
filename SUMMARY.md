@@ -40,3 +40,10 @@
   * [👨💻 Why Python](scripting-topics/scripting-basics/why-python.md)
   * [🚷 Introduction to Maya API](scripting-topics/scripting-basics/introduction-to-maya-api.md)
 * [2 Scripting: Advanced](scripting-topics/scripting-advanced.md)
+
+## Portfolio Tips
+
+* [📽 Rigging Reel: Fresher](portfolio-tips/rigging-reel-fresher.md)
+* [🎬 Rigging Reel: Junior/Mid](portfolio-tips/rigging-reel-junior-mid.md)
+* [🎦 Rigging Reel: Lead](portfolio-tips/rigging-reel-lead.md)
+* [🎥 Rigging Reel: Supervisor](portfolio-tips/rigging-reel-supervisor.md)
