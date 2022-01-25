@@ -22,11 +22,16 @@
   * [🦽 Rigging A prop](rigging-topics-beginner/rigging-basics/rigging-a-prop.md)
   * [✈ Rigging a Vehicle](rigging-topics-beginner/rigging-basics/rigging-a-vehicle.md)
   * [🕴 Rigging A Character](rigging-topics-beginner/rigging-basics/rigging-a-character.md)
-* [2 Rigging: Advanced](rigging-topics-beginner/rigging-advanced.md)
+* [2 Rigging: Advanced](rigging-topics-beginner/rigging-advanced/README.md)
+  * [👨🔬 Intro to 3D Math](rigging-topics-beginner/rigging-advanced/intro-to-3d-math.md)
+  * [↗ Vectors](rigging-topics-beginner/rigging-advanced/vectors.md)
+  * [💚 Matrix](rigging-topics-beginner/rigging-advanced/matrix.md)
+  * [🚷 Introduction to Maya API](rigging-topics-beginner/rigging-advanced/introduction-to-maya-api.md)
 * [🕒 Rigging: Mythic](rigging-topics-beginner/rigging-mythic.md)
 * [🖥 Tutorial Hub](rigging-topics-beginner/tutorial-hub/README.md)
   * [📒 External Blog Database](rigging-topics-beginner/tutorial-hub/external-blog-database.md)
 * [⌨ Script Database](rigging-topics-beginner/script-database.md)
+* [🎴 Rigging: Misc. Tips](rigging-topics-beginner/rigging-misc.-tips.md)
 
 ## Scripting Topics: Beginner
 
