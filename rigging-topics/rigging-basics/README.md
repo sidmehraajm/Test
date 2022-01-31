@@ -1,15 +1,15 @@
 # 1⃣ Rigging: Basics
 
-{% content-ref url="maya-architecture-transforms.md" %}
-[maya-architecture-transforms.md](maya-architecture-transforms.md)
+{% content-ref url="maya-architecture.md" %}
+[maya-architecture.md](maya-architecture.md)
 {% endcontent-ref %}
 
-{% content-ref url="joints-introduction.md" %}
-[joints-introduction.md](joints-introduction.md)
+{% content-ref url="introduction-to-joints-and-rotation-order.md" %}
+[introduction-to-joints-and-rotation-order.md](introduction-to-joints-and-rotation-order.md)
 {% endcontent-ref %}
 
-{% content-ref url="pivots-and-rotation-order.md" %}
-[pivots-and-rotation-order.md](pivots-and-rotation-order.md)
+{% content-ref url="pivots.md" %}
+[pivots.md](pivots.md)
 {% endcontent-ref %}
 
 {% content-ref url="connection-types.md" %}

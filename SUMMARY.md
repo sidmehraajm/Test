@@ -6,9 +6,10 @@
 ## Rigging Topics
 
 * [1⃣ Rigging: Basics](rigging-topics/rigging-basics/README.md)
-  * [📦 Maya Architecture: Transforms](rigging-topics/rigging-basics/maya-architecture-transforms.md)
-  * [🦴 Joints Introduction](rigging-topics/rigging-basics/joints-introduction.md)
-  * [♾ Pivots and rotation order](rigging-topics/rigging-basics/pivots-and-rotation-order.md)
+  * [📦 Maya Architecture](rigging-topics/rigging-basics/maya-architecture.md)
+  * [☦ Transform Nodes](rigging-topics/rigging-basics/transform-nodes.md)
+  * [♾ Pivots](rigging-topics/rigging-basics/pivots.md)
+  * [🦴 Introduction to Joints and rotation order](rigging-topics/rigging-basics/introduction-to-joints-and-rotation-order.md)
   * [🏗 Connection Types](rigging-topics/rigging-basics/connection-types.md)
   * [💳 Editors in Maya](rigging-topics/rigging-basics/editors-in-maya.md)
   * [🗓 Utility Nodes](rigging-topics/rigging-basics/utility-nodes.md)
