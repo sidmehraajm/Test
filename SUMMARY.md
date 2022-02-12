@@ -19,7 +19,7 @@
   * [🎩 Deformers](rigging-topics/rigging-basics/deformers.md)
   * [🦿 IK & Splines](rigging-topics/rigging-basics/ik-and-splines.md)
   * [⭕ Controls](rigging-topics/rigging-basics/controls.md)
-  * [🕸 Geometry Check](rigging-topics/rigging-basics/geometry-check.md)
+  * [🕸 Geometry Check before Rigging](rigging-topics/rigging-basics/geometry-check-before-rigging.md)
   * [🦽 Rigging A prop](rigging-topics/rigging-basics/rigging-a-prop.md)
   * [✈ Rigging a Vehicle](rigging-topics/rigging-basics/rigging-a-vehicle.md)
   * [🕴 Rigging A Character](rigging-topics/rigging-basics/rigging-a-character.md)

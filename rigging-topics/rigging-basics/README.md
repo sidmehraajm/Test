@@ -48,8 +48,8 @@
 [controls.md](controls.md)
 {% endcontent-ref %}
 
-{% content-ref url="geometry-check.md" %}
-[geometry-check.md](geometry-check.md)
+{% content-ref url="geometry-check-before-rigging.md" %}
+[geometry-check-before-rigging.md](geometry-check-before-rigging.md)
 {% endcontent-ref %}
 
 {% content-ref url="rigging-a-prop.md" %}

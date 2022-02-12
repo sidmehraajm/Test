@@ -1,8 +1,10 @@
 ---
-description: 'Level: Beginner | Version 1.0 | Date: 20-Jan-2022'
+description: 'Level: Beginner | Version 1.0 | Date: 20-Jan-2022 | By - Siddarth Mehra'
 ---
 
 # 🤔 What is Rigging ?
+
+
 
 <details>
 
