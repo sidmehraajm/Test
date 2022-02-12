@@ -11,7 +11,7 @@ For getting the perfect deformation one of the most import aspect is topology of
 
 ![](../../.gitbook/assets/maya\_bHaTNPipgX.gif)
 
-## 1 -  Topology
+## 1. Topology
 
 Topology matters a lot as when rigging a character not only the topology needs to be clean and properly organized but also has the flow of deformation.\
 Flow of deformation means creating  the mesh flow by thinking how it will be deformed.
