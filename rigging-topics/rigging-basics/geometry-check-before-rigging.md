@@ -14,7 +14,7 @@ For getting the perfect deformation one of the most important aspects is the top
 ## 1. Topology
 
 Topology matters a lot as when rigging a character not only the topology needs to be clean and properly organized but also has the flow of deformation.\
-The flow of deformation means creating  the mesh flow by thinking about how it will be deformed.
+The flow of deformation means creating the mesh flow by thinking about how it will be deformed.
 
 ### How to Check Topology
 
@@ -22,7 +22,7 @@ The flow of deformation means creating  the mesh flow by thinking about how it w
 2. Checking the places which are going to have extreme deformations&#x20;
 3. Making sure the Normals are facing the right direction. (Tip: Switch off Two-sided lighting )
 
-\###Video
+{% embed url="https://youtu.be/57uRXf6BBs4" %}
 
 ### Cleaning Up the scene
 
