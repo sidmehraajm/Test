@@ -4,6 +4,10 @@
 [maya-architecture.md](maya-architecture.md)
 {% endcontent-ref %}
 
+{% content-ref url="transform-nodes.md" %}
+[transform-nodes.md](transform-nodes.md)
+{% endcontent-ref %}
+
 {% content-ref url="introduction-to-joints-and-rotation-order.md" %}
 [introduction-to-joints-and-rotation-order.md](introduction-to-joints-and-rotation-order.md)
 {% endcontent-ref %}

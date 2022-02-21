@@ -48,3 +48,7 @@
 * [🎬 Rigging Reel: Junior/Mid](portfolio-tips/rigging-reel-junior-mid.md)
 * [🎦 Rigging Reel: Lead](portfolio-tips/rigging-reel-lead.md)
 * [🎥 Rigging Reel: Supervisor](portfolio-tips/rigging-reel-supervisor.md)
+
+## Misc.
+
+* [🫓 Polygon Normals](misc./polygon-normals.md)

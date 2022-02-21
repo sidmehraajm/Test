@@ -34,6 +34,8 @@ description: 'Level: Beginner | Version 1.0 | Date: 31-Jan-2022 | By - Siddarth 
 
 {% embed url="https://youtu.be/_l9oM7sx_98" %}
 
+### Transformation Hierarchy (DAG)
 
+The transformation hierarchy or DAG (Directed Acyclic Graph) is a hierarchy where objects are defined relative to the transformations on their parent objects. These objects are dependency nodes and are referred to as dag nodes. There are basically two types of dag nodes: transforms and shapes. Transform nodes are grouping nodes that can have any number of other dag nodes below them. Transform nodes have affine transformation information which is applied to nodes below them. Shape nodes are leaf level nodes and cannot have any other nodes below them. Shape nodes must have at least one transform node as a parent. Dag nodes can have more than one parent. That is, they can be in more than one hierarchy. This makes the transformation hierarchy a graph instead of a tree. Dag nodes that are in more than one hierarchy are said to be "instanced".
 
-{% embed url="https://help.autodesk.com/cloudhelp/2015/ENU/Maya-Tech-Docs/Nodes/transform.html" %}
+{% embed url="https://help.autodesk.com/cloudhelp/2015/ENU/Maya-Tech-Docs/Nodes/dagNode.html" %}
