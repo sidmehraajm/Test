@@ -36,7 +36,9 @@ The flow of deformation means creating the mesh flow by thinking about how it wi
 [polygon-normals.md](../../misc./polygon-normals.md)
 {% endcontent-ref %}
 
-###
+### Cleaning up the Scene&#x20;
+
+*
 
 ### Tools to check & Fix model issues
 
