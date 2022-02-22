@@ -38,9 +38,9 @@ The flow of deformation means creating the mesh flow by thinking about how it wi
 
 ### Cleaning up the Scene&#x20;
 
-*
+> A clean scene with no unncessary nodes and predefined groups for specific objects such as geometry levels, non rendering geos and rigging stuff helps a lot while setting up the pipeline tools. Additionally these redundant node(unused shaders, namespaes, ) can make the scene heavier and even cause problesm
 
-### Tools to check & Fix model issues
+* ### Tools to check & Fix model issues
 
 1. Switching on the Default Lighting, Wireframe on mesh, Default color & Turning off textures to check the flow properly
 2. Checking the places which are going to have extreme deformations&#x20;
