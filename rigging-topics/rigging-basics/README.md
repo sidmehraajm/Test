@@ -4,8 +4,8 @@
 [maya-architecture.md](maya-architecture.md)
 {% endcontent-ref %}
 
-{% content-ref url="transform-nodes.md" %}
-[transform-nodes.md](transform-nodes.md)
+{% content-ref url="transform-nodes/" %}
+[transform-nodes](transform-nodes/)
 {% endcontent-ref %}
 
 {% content-ref url="introduction-to-joints-and-rotation-order.md" %}
