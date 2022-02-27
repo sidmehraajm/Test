@@ -30,8 +30,10 @@ To change a shape node's parent select the child shape and then the parent.
 #mel
 parent -r -s
 #python 
+'''python
 import maya.cmds as cmds
 cmds.parent(r=1,s=1)
+'''
 ```
 
 
