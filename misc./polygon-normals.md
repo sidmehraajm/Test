@@ -10,7 +10,7 @@
 
 > The front of a polygon’s face is graphically represented using a vector called the polygon’s normal.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 > The order of vertices around the face determine the direction of the face (whether a side of the polygon is the front or the back). For example, if you place vertices in a clockwise direction, the face normal points downward. If you place vertices in a counter-clockwise direction, the face normal points upward.&#x20;
 >

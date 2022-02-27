@@ -21,7 +21,36 @@ Whichever is the _**First Child DAG Node**_ that _**Child's Shape**_ will be sho
 
 ![](../../.gitbook/assets/maya\_3BkxPrmk2Y.gif)
 
-### Local Space & World Space
+## World and Local Coordinates&#x20;
+
+> For understanding World and local cordinates, first of all, we need to know that there is an origin in the maya scene from which all the calculations takes place,\
+> For example, if there is a grid and we need to find the mathematical position of something in that grid we would need to know the origin that is xy(0,0) in a 2d space and xyz(0,0,0) in a 3d space.
+>
+> ![](<../../.gitbook/assets/image (7).png>)
+
+### World Coordinates(World Space)
+
+> World space is the coordinate system for the entire scene. Its origin is at the center of the scene. The grid you see in view windows shows the world space axes.(0,0,0)
+>
+> ![](https://help.autodesk.com/cloudhelp/2018/ENU/Maya-Basics/images/GUID-8B7AD211-47B4-4790-8543-82777029C75A.png)
+
+
+
+### Object Space
+
+> Object space is the coordinate system from an object’s point of view. The origin of object space is at the object’s pivot point, and its axes are rotated with the object.
+>
+> ![](https://help.autodesk.com/cloudhelp/2018/ENU/Maya-Basics/images/GUID-BB1C65CF-70BB-4B06-AC52-D50AAC0988FC.png)
+
+### Local Space
+
+> Local Space is similar to Object space, and is really important to understand for example if we have a orange on a grid and we move from  0 to 2 we moved it 2 points and it has local transform value of 2 spaces, but if we put that orange in a basket and move that basket to 2 spaces it's local transform value is 0 but it's world transform position changes to 2
+>
+> It can be a bit complicated to understand, in this maya scene I have created an example for this and tried to make it visual using bifrost
+
+![](../../.gitbook/assets/maya\_NBJp4EpmIP.gif)
+
+## Transform Node Attributes
 
 
 
@@ -29,10 +58,28 @@ Whichever is the _**First Child DAG Node**_ that _**Child's Shape**_ will be sho
 
 > Transformation Matrix (DAG) transform nodes have many attributes that make up the final transformation matrix as represented by the matrix attribute. This breakdown provides animators fine control over the animation of these parameters. Therefore, it is necessary to describe the order in which these attributes are applied to build the final matrix attribute.
 
+> A transformation matrix is composed of the following components:
+>
+> * **Scale pivot point** point around which scales are performed \[Sp]
+> * **Scale** scaling about x, y, z axes \[S]
+> * **Shear** shearing in xy, xz, yx \[Sh]
+> * **Scale pivot translation** translation introduced to preserve existing scale transformations when moving pivot. This is used to prevent the object from moving when the objects pivot point is not at the origin and a non-unit scale is applied to the object \[St].
+> * **Rotate pivot point** point about which rotations are performed \[Rp]
+> * **Rotation orientation** rotation to orient local rotation space \[Ro]
+> * **Rotation** rotation \[R]
+> * **Rotate pivot translation** translation introduced to preserve exisitng rotate transformations when moving pivot. This is used to prevent the object from moving when the objects pivot point is not at the origin and the pivot is moved. \[Rt]
+> * **Translate** translation in x, y, z axes \[T]
+>
+> Note that the default RotationOrder is kXYZ.
+>
+> The matrices are post-multiplied in Maya. For example, to transform a point P from object-space to world-space (P') you would need to post-multiply by the worldMatrix. (P' = P x WM)
+
 
 
 {% hint style="warning" %}
 All transformations in the DAG are affine transformations. All dag node transformations can be represented by a 4x4 transformation matrix where the fourth column contains the vector (0,0,0,1), the fourth row contains the vector (tx, ty, tz, 1) and represents a translational component. This implies objects are transformed by post multiplying their position by the transformation matrix.
 {% endhint %}
+
+
 
 {% embed url="https://help.autodesk.com/cloudhelp/2015/ENU/Maya-Tech-Docs/Nodes/transform.html" %}
