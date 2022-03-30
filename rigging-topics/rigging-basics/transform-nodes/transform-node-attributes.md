@@ -6,11 +6,15 @@ description: 'Level: Beginner | Version 1.0 | Date: 30-March-2022 | By - Siddart
 
 <details>
 
-<summary>Index</summary>
+<summary><strong>Attribute Index</strong></summary>
 
 [#1.-translate-t-double3](transform-node-attributes.md#1.-translate-t-double3 "mention")
 
+[#2.-rotate-r-double3](transform-node-attributes.md#2.-rotate-r-double3 "mention")
 
+[#3.-scale-s-double3](transform-node-attributes.md#3.-scale-s-double3 "mention")
+
+[#shear-sh-double3](transform-node-attributes.md#shear-sh-double3 "mention")
 
 </details>
 
@@ -84,7 +88,7 @@ obj = pm.PyNode('objName')
 obj.getScale()
 ```
 
-## shear(sh)- _<mark style="color:green;">double3</mark>_
+## 4. shear(sh)- _<mark style="color:green;">double3</mark>_
 
 * shearXY(shxy) _- <mark style="color:green;">double</mark>_
 * shearXZ(shxz) _- <mark style="color:green;">double</mark>_
