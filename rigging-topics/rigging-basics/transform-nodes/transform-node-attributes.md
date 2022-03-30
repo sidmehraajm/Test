@@ -14,7 +14,7 @@ description: 'Level: Beginner | Version 1.0 | Date: 30-March-2022 | By - Siddart
 
 [#3.-scale-s-double3](transform-node-attributes.md#3.-scale-s-double3 "mention")
 
-[#shear-sh-double3](transform-node-attributes.md#shear-sh-double3 "mention")
+[#4.-shear-sh-double3](transform-node-attributes.md#4.-shear-sh-double3 "mention")
 
 </details>
 
@@ -103,8 +103,6 @@ obj.getScale()
 * ![](../../../.gitbook/assets/maya\_AKKPH3Vdz7.gif)
 
 </details>
-
-
 
 Shear can be seen in AttributeEditor and can be queried by -
 
