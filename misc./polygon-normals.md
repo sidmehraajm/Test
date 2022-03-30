@@ -4,7 +4,7 @@
 
 > A normal is a theoretical line, perpendicular to the surface of a polygon. In Maya, normals are used to determine the orientation of a polygon face (face normals), or how the edges of faces will visually appear in relation to each other when shaded (vertex normals).
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 ### Face Normals
 
