@@ -30,7 +30,7 @@
 
 > * When the vertex normals point in the same directions as their faces (called hard vertex normals), the transition between faces is hard, creating a faceted appearance.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 > Manipulating vertex normals is the easiest way to soften or harden the appearance of edges (creases) without using additional geometry. You can do this automatically by using the Soften / Harden Edge commands, or by manually manipulating the vertex normals using the Vertex Normal Edit Tool (Mesh Display > Vertex Normal Edit Tool). When the vertex normals for a polygon mesh are manually edited they become locked or frozen. When you unlock a previously locked vertex normal, Maya automatically recalculates the vertex normal for the face based on its default normal calculations.
 
