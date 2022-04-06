@@ -20,9 +20,9 @@ description: 'Level: Beginner | Version 1.0 | Date: 30-March-2022 | By - Siddart
 
 ## 1. translate(t) - _<mark style="color:green;">double3</mark>_
 
-* translateX (tx) - _<mark style="color:green;">double</mark>_
-* translateY (ty) - _<mark style="color:green;">double</mark>_
-* translateZ (tz) - _<mark style="color:green;">double</mark>_
+* translateX (tx) - _<mark style="color:green;">distance(double)</mark>_
+* translateY (ty) - _<mark style="color:green;">distance(double)</mark>_
+* translateZ (tz) - _<mark style="color:green;">distance(double)</mark>_
 
 <details>
 
@@ -43,9 +43,9 @@ print(obj.getTranslation())
 
 ## 2. rotate(r) - _<mark style="color:green;">double3</mark>_
 
-* rotateX(rx) - _<mark style="color:green;">double</mark>_
-* rotateY (ry) - _<mark style="color:green;">double</mark>_
-* rotateZ (rz) - _<mark style="color:green;">double</mark>_
+* rotateX(rx) - _<mark style="color:green;">angle(double)</mark>_
+* rotateY (ry) - _<mark style="color:green;">angle(double)</mark>_
+* rotateZ (rz) - _<mark style="color:green;">angle(double)</mark>_
 
 <details>
 
@@ -99,7 +99,7 @@ print(obj.getScale())
 <summary>When the Shear XYZ values are changed from 0,0,0, shears or non-proportionately scales the selected geometry.</summary>
 
 * <mark style="color:green;">Is Keyable</mark>&#x20;
-* <mark style="color:green;"></mark>![](<../../../.gitbook/assets/image (6).png>)<mark style="color:green;"></mark>
+* <mark style="color:green;"></mark>![](<../../../.gitbook/assets/image (6) (1).png>)<mark style="color:green;"></mark>
 * ![](../../../.gitbook/assets/maya\_AKKPH3Vdz7.gif)
 
 </details>
@@ -135,7 +135,7 @@ Kinda starts at 10:00 but to understand it properly watch from 8:23
 
 </details>
 
-Shear can be seen in AttributeEditor and can be queried by -
+RotateOrder can be seen in AttributeEditor and can be queried by -
 
 ```python
 import pymel.core as pm
@@ -145,3 +145,28 @@ orderDict = {0:'xyz', 1:'yzx', 2:'zxy', 3:'xzy', 4:'yxz', 5:'zyx'}
 print (orderDict[order])
 ```
 
+
+
+## 6. rotateAxis(ra)- _<mark style="color:green;">double3</mark>_
+
+* rotateAxisX(rax) _- <mark style="color:green;">angle(double)</mark>_
+* rotateAxisY(ray) _- <mark style="color:green;">angle(double)</mark>_
+* rotateAxisZ(raz) _- <mark style="color:green;">angle(double)</mark>_
+
+<details>
+
+<summary>Extra rotation to adjust the local axis prior to applying the rotate attribute</summary>
+
+* <mark style="color:red;">Is not Keyable</mark>&#x20;
+* ![](<../../../.gitbook/assets/image (6).png>)
+
+</details>
+
+rotateAxis can be seen in AttributeEditor and can be queried by -
+
+```python
+import pymel.core as pm
+obj = pm.PyNode('objName')
+roAxis = obj.rotateAxis.get()
+print (roAxis)
+```
