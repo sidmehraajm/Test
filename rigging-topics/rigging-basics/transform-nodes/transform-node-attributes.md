@@ -112,3 +112,34 @@ obj = pm.PyNode('objName')
 obj.getShear()
 ```
 
+## 5. rotateOrder(sh)- _<mark style="color:green;">enum</mark>_
+
+#### Rotate order explanation for Rigging-&#x20;
+
+{% embed url="https://youtu.be/urC_TBQQA7o?t=470" %}
+Kinda start at 10 but to understand it properly watch from 8:23
+{% endembed %}
+
+#### Rotate order explanation for animation -&#x20;
+
+{% embed url="https://vimeo.com/54541692" %}
+
+
+
+<details>
+
+<summary>This attribute controls the order in which rx, ry, rz are applied in the transformation matrix. Valid values for this attribute are 0=xyz, 1=yzx, 2=zxy, 3=xzy, 4=yxz, 5=zyx.<br></summary>
+
+* <mark style="color:red;">Is not Keyable</mark>&#x20;
+* <mark style="color:red;"></mark>
+
+</details>
+
+Shear can be seen in AttributeEditor and can be queried by -
+
+```python
+import pymel.core as pm
+obj = pm.PyNode('objName')
+obj.getShear()
+```
+
