@@ -38,7 +38,7 @@ Translation can be seen in channelBox and can be queried by -
 ```python
 import pymel.core as pm
 obj = pm.PyNode('objName')
-obj.getTranslation()
+print(obj.getTranslation())
 ```
 
 ## 2. rotate(r) - _<mark style="color:green;">double3</mark>_
@@ -62,7 +62,7 @@ Rotation can be seen in channelBox and can be queried by -
 ```python
 import pymel.core as pm
 obj = pm.PyNode('objName')
-obj.getRotation()
+print(obj.getRotation())
 ```
 
 ## 3. scale(s) - _<mark style="color:green;">double3</mark>_
@@ -85,7 +85,7 @@ Scale can be seen in channelBox and can be queried by -
 ```python
 import pymel.core as pm
 obj = pm.PyNode('objName')
-obj.getScale()
+print(obj.getScale())
 ```
 
 ## 4. shear(sh)- _<mark style="color:green;">double3</mark>_
@@ -109,7 +109,7 @@ Shear can be seen in AttributeEditor and can be queried by -
 ```python
 import pymel.core as pm
 obj = pm.PyNode('objName')
-obj.getShear()
+print(obj.getShear())
 ```
 
 ## 5. rotateOrder(sh)- _<mark style="color:green;">enum</mark>_
@@ -117,7 +117,7 @@ obj.getShear()
 #### Rotate order explanation for Rigging-&#x20;
 
 {% embed url="https://youtu.be/urC_TBQQA7o?t=470" %}
-Kinda start at 10 but to understand it properly watch from 8:23
+Kinda starts at 10:00 but to understand it properly watch from 8:23
 {% endembed %}
 
 #### Rotate order explanation for animation -&#x20;
@@ -128,10 +128,10 @@ Kinda start at 10 but to understand it properly watch from 8:23
 
 <details>
 
-<summary>This attribute controls the order in which rx, ry, rz are applied in the transformation matrix. Valid values for this attribute are 0=xyz, 1=yzx, 2=zxy, 3=xzy, 4=yxz, 5=zyx.<br></summary>
+<summary>This attribute controls the order in which rx, ry, rz are applied in the transformation matrix. Valid values for this attribute are 0=xyz, 1=yzx, 2=zxy, 3=xzy, 4=yxz, 5=zyx.</summary>
 
 * <mark style="color:red;">Is not Keyable</mark>&#x20;
-* <mark style="color:red;"></mark>
+* <mark style="color:red;"></mark>![](<../../../.gitbook/assets/image (2).png>)<mark style="color:red;"></mark>
 
 </details>
 
@@ -140,6 +140,8 @@ Shear can be seen in AttributeEditor and can be queried by -
 ```python
 import pymel.core as pm
 obj = pm.PyNode('objName')
-obj.getShear()
+order = obj.rotateOrder.get()
+orderDict = {0:'xyz', 1:'yzx', 2:'zxy', 3:'xzy', 4:'yxz', 5:'zyx'}
+print (orderDict[order])
 ```
 
