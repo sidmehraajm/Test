@@ -1,5 +1,7 @@
 ---
-description: 'Level: Beginner | Version 1.0 | Date: 13-Feb-2022 | By - Himanshi Ahuja'
+description: >-
+  Level: Beginner | Version 1.0 | Date: 13-Feb-2022 | By -Siddarth Mehra,
+  Himanshi Ahuja
 ---
 
 # 🕸 Geometry Check before Rigging
@@ -13,7 +15,7 @@ For getting the perfect deformation one of the most important aspects is the top
 
 ## 1. Topology
 
-Topology matters a lot as when rigging a character not only the topology needs to be clean and properly organized but also has the flow of deformation.\
+Topology matters a lot as when rigging a character not only the topology needs to be clean and properly organized but also has the flow of deformation. \
 The flow of deformation means creating the mesh flow by thinking about how it will be deformed.
 
 ### How to Check Topology
@@ -55,12 +57,6 @@ The flow of deformation means creating the mesh flow by thinking about how it wi
 2\. abSymMesh
 
 {% embed url="https://www.highend3d.com/maya/script/absymmesh-for-maya" %}
-
-
-
-
-
-
 
 <details>
 
