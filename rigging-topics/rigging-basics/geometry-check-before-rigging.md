@@ -46,9 +46,15 @@ The flow of deformation means creating the mesh flow by thinking about how it wi
 2. Checking the places which are going to have extreme deformations&#x20;
 3. Making sure the Normals are facing the right direction. (Tip: Switch off Two sided lighting )
 
-\###Video
+### Tools to check model
 
+1. modelChecker
 
+{% embed url="https://github.com/JakobJK/modelChecker" %}
+
+2\. abSymMesh
+
+{% embed url="https://www.highend3d.com/maya/script/absymmesh-for-maya" %}
 
 
 
