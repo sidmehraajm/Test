@@ -1,3 +1,7 @@
+---
+layout: editorial
+---
+
 # 1⃣ Rigging: Basics
 
 {% content-ref url="maya-architecture.md" %}
