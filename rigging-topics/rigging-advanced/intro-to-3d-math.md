@@ -2,7 +2,7 @@
 
 ### We are still trying to find time and work on this page. Please email or text if you want to contribute!
 
-![](../../../.gitbook/assets/image\_processing20200128-10882-10eetut.gif)
+![](../../.gitbook/assets/image\_processing20200128-10882-10eetut.gif)
 
 ### Email - siddarthmehraajm@gmail.com
 

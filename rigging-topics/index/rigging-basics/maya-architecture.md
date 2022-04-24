@@ -22,13 +22,13 @@ description: 'Level: Beginner | Version 1.0 | Date: 31-Jan-2022 | By - Siddarth 
 
 > When you create a polygon sphere, for example, you can see in the Attribute Editor that it includes a shape node and a transform node. The shape node has attributes to define the geometry, while the transform node contains attributes that control the sphere's position, scale, or rotation. The shape node is the child of the transform node.
 
-![](../../.gitbook/assets/asf.gif)
+![](../../../.gitbook/assets/asf.gif)
 
 ## DG or Dependency Graph
 
 > The dependency graph (DG) is a collection of entities connected together. Unlike the DAG, these connections can be cyclic, and do not represent a parenting relationship. Instead, the connections in the graph allow data to move from one entity in the graph to another. Dependency graph nodes are used for almost everything in Maya such as model creation, deformation, animation, simulation, and audio processing.
 
-![](<../../.gitbook/assets/DG cycle.gif>)
+![](<../../../.gitbook/assets/DG cycle.gif>)
 
 > Most objects in Maya are dependency graph nodes, or networks of nodes (several nodes connected together). For example, DAG nodes are dependency graph nodes, and shaders are networks of nodes.
 

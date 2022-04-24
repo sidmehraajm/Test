@@ -2,8 +2,8 @@
 
 {% tabs %}
 {% tab title="Basic" %}
-{% content-ref url="maya-architecture.md" %}
-[maya-architecture.md](maya-architecture.md)
+{% content-ref url="../index/rigging-basics/maya-architecture.md" %}
+[maya-architecture.md](../index/rigging-basics/maya-architecture.md)
 {% endcontent-ref %}
 
 {% content-ref url="transform-nodes/" %}
@@ -72,16 +72,16 @@
 {% endtab %}
 
 {% tab title="Advanced" %}
-{% content-ref url="../index/rigging-advanced/intro-to-3d-math.md" %}
-[intro-to-3d-math.md](../index/rigging-advanced/intro-to-3d-math.md)
+{% content-ref url="../rigging-advanced/intro-to-3d-math.md" %}
+[intro-to-3d-math.md](../rigging-advanced/intro-to-3d-math.md)
 {% endcontent-ref %}
 
-{% content-ref url="../index/rigging-advanced/vectors.md" %}
-[vectors.md](../index/rigging-advanced/vectors.md)
+{% content-ref url="../rigging-advanced/vectors.md" %}
+[vectors.md](../rigging-advanced/vectors.md)
 {% endcontent-ref %}
 
-{% content-ref url="../index/rigging-advanced/matrix.md" %}
-[matrix.md](../index/rigging-advanced/matrix.md)
+{% content-ref url="../rigging-advanced/matrix.md" %}
+[matrix.md](../rigging-advanced/matrix.md)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
