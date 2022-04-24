@@ -1,4 +1,4 @@
-# ↗ Vectors
+# 🕒 Rigging: Mythic
 
 ### We are still trying to find time and work on this page. Please email or text if you want to contribute!
 

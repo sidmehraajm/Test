@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # 1⃣ Index
 
 {% tabs %}
@@ -76,8 +72,16 @@ layout: editorial
 {% endtab %}
 
 {% tab title="Advanced" %}
-{% content-ref url="../rigging-advanced/intro-to-3d-math.md" %}
-[intro-to-3d-math.md](../rigging-advanced/intro-to-3d-math.md)
+{% content-ref url="../index/rigging-advanced/intro-to-3d-math.md" %}
+[intro-to-3d-math.md](../index/rigging-advanced/intro-to-3d-math.md)
+{% endcontent-ref %}
+
+{% content-ref url="../index/rigging-advanced/vectors.md" %}
+[vectors.md](../index/rigging-advanced/vectors.md)
+{% endcontent-ref %}
+
+{% content-ref url="../index/rigging-advanced/matrix.md" %}
+[matrix.md](../index/rigging-advanced/matrix.md)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
