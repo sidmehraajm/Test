@@ -67,6 +67,12 @@ cmds.parent(r=1,s=1)
 
 ![](../../../.gitbook/assets/maya\_NBJp4EpmIP.gif)
 
+{% hint style="warning" %}
+### Local & World Space example:
+
+So it can be understood by this simple example, if I give you my address or coordinates to my location, it is the position in the world, whereas if I give you a relative direction like my house is 1mile from the bus stand, that would be local space.
+{% endhint %}
+
 ## Transform Node Attributes
 
 > **I would suggest looking into** [**Transform Node Attributes**](transform-node-attributes.md) **Page before jumping further**
