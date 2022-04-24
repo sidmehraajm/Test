@@ -2,8 +2,10 @@
 layout: editorial
 ---
 
-# 1⃣ Rigging: Basics
+# 1⃣ Index
 
+{% tabs %}
+{% tab title="Basic" %}
 {% content-ref url="maya-architecture.md" %}
 [maya-architecture.md](maya-architecture.md)
 {% endcontent-ref %}
@@ -71,3 +73,11 @@ layout: editorial
 {% content-ref url="rigging-a-character.md" %}
 [rigging-a-character.md](rigging-a-character.md)
 {% endcontent-ref %}
+{% endtab %}
+
+{% tab title="Advanced" %}
+{% content-ref url="../rigging-advanced/intro-to-3d-math.md" %}
+[intro-to-3d-math.md](../rigging-advanced/intro-to-3d-math.md)
+{% endcontent-ref %}
+{% endtab %}
+{% endtabs %}

@@ -29,7 +29,7 @@ description: 'Level: Beginner | Version 1.0 | Date: 30-March-2022 | By - Siddart
 <summary>Specifies the object’s translation (Translate X, Y, and Z) attribute values in world space</summary>
 
 * <mark style="color:green;">Is Keyable</mark>&#x20;
-* <mark style="color:green;"></mark>![](<../../../.gitbook/assets/image (5) (1).png>)
+* <mark style="color:green;"></mark><img src="../../../.gitbook/assets/image (5) (1).png" alt="" data-size="line">
 
 </details>
 
@@ -100,7 +100,7 @@ print(obj.getScale())
 
 * <mark style="color:green;">Is Keyable</mark>&#x20;
 * <mark style="color:green;"></mark>![](<../../../.gitbook/assets/image (6) (1).png>)<mark style="color:green;"></mark>
-* ![](../../../.gitbook/assets/maya\_AKKPH3Vdz7.gif)
+* <img src="../../../.gitbook/assets/maya_AKKPH3Vdz7.gif" alt="" data-size="original">
 
 </details>
 
