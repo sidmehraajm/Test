@@ -29,7 +29,7 @@ description: 'Level: Beginner | Version 1.0 | Date: 30-March-2022 | By - Siddart
 <summary>Specifies the object’s translation (Translate X, Y, and Z) attribute values in world space</summary>
 
 * <mark style="color:green;">Is Keyable</mark>&#x20;
-* <mark style="color:green;"></mark><img src="../../../.gitbook/assets/image (5) (1).png" alt="" data-size="line">
+* <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line">
 
 </details>
 
@@ -53,7 +53,7 @@ print(obj.getTranslation())
 
 * Unlike translation and rotation attributes, scale uses only the Local coordinate system.
 * <mark style="color:green;">Is Keyable</mark>&#x20;
-* ![](<../../../.gitbook/assets/image (5).png>)
+* ![](<../../.gitbook/assets/image (5).png>)
 
 </details>
 
@@ -76,7 +76,7 @@ print(obj.getRotation())
 <summary><strong>Scale</strong> is used to scale a dag node in a 3D space</summary>
 
 * <mark style="color:green;">Is Keyable</mark>&#x20;
-* ![](<../../../.gitbook/assets/image (9).png>)
+* ![](<../../.gitbook/assets/image (9).png>)
 
 </details>
 
@@ -99,8 +99,8 @@ print(obj.getScale())
 <summary>When the Shear XYZ values are changed from 0,0,0, shears or non-proportionately scales the selected geometry.</summary>
 
 * <mark style="color:green;">Is Keyable</mark>&#x20;
-* <mark style="color:green;"></mark>![](<../../../.gitbook/assets/image (6) (1).png>)<mark style="color:green;"></mark>
-* <img src="../../../.gitbook/assets/maya_AKKPH3Vdz7.gif" alt="" data-size="original">
+* ![](<../../.gitbook/assets/image (6) (1).png>)
+* <img src="../../.gitbook/assets/maya_AKKPH3Vdz7.gif" alt="" data-size="original">
 
 </details>
 
@@ -131,7 +131,7 @@ Kinda starts at 10:00 but to understand it properly watch from 8:23
 <summary>This attribute controls the order in which rx, ry, rz are applied in the transformation matrix. Valid values for this attribute are 0=xyz, 1=yzx, 2=zxy, 3=xzy, 4=yxz, 5=zyx.</summary>
 
 * <mark style="color:red;">Is not Keyable</mark>&#x20;
-* <mark style="color:red;"></mark>![](<../../../.gitbook/assets/image (2).png>)<mark style="color:red;"></mark>
+* ![](<../../.gitbook/assets/image (2).png>)
 
 </details>
 
@@ -158,7 +158,7 @@ print (orderDict[order])
 <summary>Extra rotation to adjust the local axis prior to applying the rotate attribute</summary>
 
 * <mark style="color:red;">Is not Keyable</mark>&#x20;
-* ![](<../../../.gitbook/assets/image (6).png>)
+* ![](<../../.gitbook/assets/image (6).png>)
 
 </details>
 

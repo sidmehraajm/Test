@@ -10,7 +10,7 @@ description: 'Level: Beginner | Version 1.0 | Date: 21-Feb-2022 | By - Siddarth 
 > Even though when _**Shapes**_ is switched off in Outliner It seems like the transform node ICON changes and looks like it's, we need to understand that-\
 > **All dagNodes that are not transform nodes in Maya must exist as a child of some transform node**. For example, a Sphere shape has to be under a tranform node always.
 
-![](../../../.gitbook/assets/maya\_cgzPWEp8ty.gif)
+![](../../.gitbook/assets/maya\_cgzPWEp8ty.gif)
 
 ### Mysterious Transform Icons in Maya
 
@@ -19,7 +19,7 @@ Maya Transform nodes can be confusing at the start because of how it displays th
 Whichever is the _**First Child DAG Node**_ that _**Child's Shape**_ will be shown as the icon of that transform
 {% endhint %}
 
-![](../../../.gitbook/assets/maya\_3BkxPrmk2Y.gif)
+![](../../.gitbook/assets/maya\_3BkxPrmk2Y.gif)
 
 
 
@@ -43,7 +43,7 @@ cmds.parent(r=1,s=1)
 > For understanding World and local cordinates, first of all, we need to know that there is an origin in the maya scene from which all the calculations takes place,\
 > For example, if there is a grid and we need to find the mathematical position of something in that grid we would need to know the origin that is xy(0,0) in a 2d space and xyz(0,0,0) in a 3d space.
 >
-> ![](<../../../.gitbook/assets/image (7).png>)
+> ![](<../../.gitbook/assets/image (7).png>)
 
 ### World Coordinates(World Space)
 
@@ -65,7 +65,7 @@ cmds.parent(r=1,s=1)
 >
 > It can be a bit complicated to understand, in this maya scene I have created an example for this and tried to make it visual using bifrost
 
-![](../../../.gitbook/assets/maya\_NBJp4EpmIP.gif)
+![](../../.gitbook/assets/maya\_NBJp4EpmIP.gif)
 
 {% hint style="warning" %}
 ### Local & World Space example:
@@ -81,7 +81,7 @@ So it can be understood by this simple example, if I give you my address or coor
 [transform-node-attributes.md](transform-node-attributes.md)
 {% endcontent-ref %}
 
-![](../../../.gitbook/assets/maya\_gohDDARDIQ.gif)
+![](../../.gitbook/assets/maya\_gohDDARDIQ.gif)
 
 ### Transformation MATRIX
 
