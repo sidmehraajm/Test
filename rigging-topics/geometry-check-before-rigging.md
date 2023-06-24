@@ -11,7 +11,7 @@ description: >-
 In quality character animation, all the steps in creating are equally important, starting from the design, to the animation part. \
 For getting the perfect deformation one of the most important aspects is the topology of the mesh, even though there are many deformers and stuff that can help get good deformation, the basic requirement is a clean and properly distributed mesh, we'll discuss more on this below
 
-![](../../.gitbook/assets/maya\_bHaTNPipgX.gif)
+![](../.gitbook/assets/maya\_bHaTNPipgX.gif)
 
 ## 1. Topology
 
@@ -30,12 +30,12 @@ The flow of deformation means creating the mesh flow by thinking about how it wi
 
 > Normal may not create any issues in Riggig but can have issues in rendering further down the line, so to prevent re rigging or transfering weights and anything repetitive rigging should check it once before starting to rig. In the below example as we can see if Two Sided Lighting is switched on we can miss flipped normals.
 
-![](../../.gitbook/assets/maya\_u6YPHrsfXk.gif)
+![](../.gitbook/assets/maya\_u6YPHrsfXk.gif)
 
 > Learn more about normals -
 
-{% content-ref url="../../misc./polygon-normals.md" %}
-[polygon-normals.md](../../misc./polygon-normals.md)
+{% content-ref url="polygon-normals.md" %}
+[polygon-normals.md](polygon-normals.md)
 {% endcontent-ref %}
 
 ### Cleaning up the Scene&#x20;
