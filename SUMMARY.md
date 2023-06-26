@@ -1,8 +1,11 @@
 # Table of contents
 
 * [⚪ The Skeleton Lab](README.md)
-* [🤔 What is Rigging ?](what-is-rigging.md)
-* [Github](github.md)
+* [🖥 Github](github.md)
+
+## All Videos
+
+* [👨💻 Introduction to Modules](all-videos/introduction-to-modules.md)
 
 ## Rigging Topics
 
@@ -12,3 +15,4 @@
 * [💪 Skinning & Deformation](rigging-topics/skinning-and-deformation.md)
 * [🕸 Geometry Check before Rigging](rigging-topics/geometry-check-before-rigging.md)
 * [🫓 Polygon Normals](rigging-topics/polygon-normals.md)
+* [🤔 What is Rigging ?](rigging-topics/what-is-rigging.md)

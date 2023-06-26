@@ -19,17 +19,17 @@ For common folks, Rigging can mean many things like arranging dishonestly for th
 Rigging is a technique in animation, which basically gives life to a sculpture(or other articulated object), which makes these CG characters deform in various ways, this deformation can be realistic as well as cartoonish. It only serves to make the animation process more intuitive, and the same technique is also used to control the deformation of any object such as a door, a spoon, a building, or even a galaxy! Anything and everything with some kind of motion in CGI can be a part of rigging!\
 Imagine a puppet on invisible strings. Rigging is the process of building all of the connecting points at the end of those strings—the digital bones of a character.
 
-![](.gitbook/assets/dribbble\_fireart\_621.gif)
+![](../.gitbook/assets/dribbble\_fireart\_621.gif)
 
 > It is basically done by creating **interconnected skeleton parts** similar to a human skeleton or parts of airplane which have a root and are connected with each other in hierarchical setup.
 >
 > When an artist moves a shoulder bone, the forearm and hand bones will move too. The goal is to mimic real life as accurately as possible or create a highly cartoonish effect.
 
-![](.gitbook/assets/maya\_5pxRAg8t1Fk.gif)
+![](../.gitbook/assets/maya\_5pxRAg8t1Fk.gif)
 
 > Riggers add controls over these skeletons which can be transformed using digital animation software meaning their position, rotation, and scale can be changed. By recording these aspects of the bones along a timeline(using a process called keyframing) animations can be recorded. We as the audience will never see what’s “inside” the character and the rigging structure that allows them to move, but it’s all there behind the scenes
 
-![](.gitbook/assets/maya\_PCUeBDoedx.gif)
+![](../.gitbook/assets/maya\_PCUeBDoedx.gif)
 
 ## History
 
@@ -43,11 +43,11 @@ Imagine a puppet on invisible strings. Rigging is the process of building all of
 
 > While working on a Food Truck in [SpongeBob : KampKoral](https://www.youtube.com/watch?v=\_i8AYsf1iKo) when It had to fight, sneak, drink. I rigged it to deform so it had the style & functionality to show that kind of emotion.
 
-![](.gitbook/assets/vlc\_U4xrGh7bZe\_1.gif)
+![](../.gitbook/assets/vlc\_U4xrGh7bZe\_1.gif)
 
 > Randall in Monsters, Inc. moves like a chameleon, but he also walks on four legs and sometimes on all his legs. Riggers break down those motions into individual elements and create the hundreds of control points that animators will use to create poses.
 
-![](.gitbook/assets/mons.gif)
+![](../.gitbook/assets/mons.gif)
 
 
 
@@ -55,7 +55,7 @@ Imagine a puppet on invisible strings. Rigging is the process of building all of
 
 > Rigging can be done in many ways. But the most commonly used is done by creating joints, binding them to the mesh and adding controls over it, In this entertainment era, we don’t have time to do this over and over again so we have auto rigging system which we will discuss with time, this technique is used mostly for character & vehicles. As for props it's little different we use a different type of connection sometimes, It is not necessary to use joints for that.&#x20;
 
-![](.gitbook/assets/a.gif)
+![](../.gitbook/assets/a.gif)
 
 > A big part of Rigging also involves muscle simulations which is mostly used in vfx to make digital doubles of characters or animals. Muscle gives real life skin sliding and bulge effects and has an amazing deformation.
 
