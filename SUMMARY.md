@@ -6,6 +6,8 @@
 ## All Videos
 
 * [👨💻 Introduction to Modules](all-videos/introduction-to-modules.md)
+* [👾 Creating Master Module](all-videos/creating-master-module.md)
+* [⛓ Creating FK Chain Module](all-videos/creating-fk-chain-module.md)
 
 ## Rigging Topics
 
