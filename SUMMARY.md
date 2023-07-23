@@ -8,6 +8,8 @@
 * [👨💻 Introduction to Modules](all-videos/introduction-to-modules.md)
 * [👾 Creating Master Module](all-videos/creating-master-module.md)
 * [⛓ Creating FK Chain Module](all-videos/creating-fk-chain-module.md)
+* [🗜 Assembling the Rig](all-videos/assembling-the-rig.md)
+* [💈 Creating the Spine Module](all-videos/creating-the-spine-module.md)
 
 ## Rigging Topics
 
